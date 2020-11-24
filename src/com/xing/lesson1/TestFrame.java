@@ -9,6 +9,7 @@ public class TestFrame {
         Frame frame = new Frame ("我的第一个Java图形界面窗户");
 
         //需要设置可见行
+        frame.setVisible (true);
 
     }
 }
